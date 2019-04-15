@@ -12,3 +12,4 @@ General guidelines and documentation for the Invertase GitHub org.
 ### Documents
 
  - [Code of Conduct](/CODE_OF_CONDUCT.md)
+   - Short link: http://invertase.link/oss-meta-coc
